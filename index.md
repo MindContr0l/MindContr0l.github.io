@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Genesis
 
 Hey, this is mindcontrol.io
 
